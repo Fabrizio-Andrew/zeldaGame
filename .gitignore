@@ -1,3 +1,5 @@
+venv/
+
 # OSX finder
 *.DS_Store
 
